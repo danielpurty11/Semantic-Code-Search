@@ -1,0 +1,34 @@
+# Web / API
+fastapi
+uvicorn
+
+# CLI
+typer[all]
+rich
+
+# Parsing
+tree-sitter
+tree-sitter-languages
+
+# Embeddings
+sentence-transformers
+transformers
+
+# Vector Search
+faiss-cpu
+chromadb
+
+# Git / Filesystem
+gitpython
+pathspec
+watchdog
+
+# Database
+sqlalchemy
+aiosqlite
+
+# Dev
+pytest
+pytest-asyncio
+python-dotenv
+pydantic-settings
